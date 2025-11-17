@@ -1,0 +1,87 @@
+borrow_id,member_id,book_isbn,borrow_date,due_date,return_date,member_name,member_email,member_phone,member_address,book,publication_year,copies_available,genre_id,genre_name,author_id,author_name,author_nationality,author_bio
+1,17,978-1-71363-639-7,2025-01-14,2025-01-28,2025-02-03,Miss Mary Fuller,donnellyvictor@hotmail.co.uk,+44 7837740780,"8 Clark shores, East Jessica, NW53 9TY",Similique similique quia,1999,1,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+2,24,978-0-02-781214-5,2025-02-21,2025-03-07,,Damian Mills,jakewells@saunders.com,+44 7256813716,"Studio 33
+Davis extensions, East Hollie, CM5B 4BL",Autem illum,1939,6,2,Non-Fiction,8,Dylan Robinson,French Southern Territories,Iusto nam adipisci placeat itaque inventore dolorum.
+3,6,978-1-238-23771-0,2025-03-26,2025-04-09,,Mrs Rosie Clarke,ylee@bevan-moore.com,+44 7272123387,"Studio 7
+Conor estates, Barrettfort, E8 9QP",Adipisci veniam,1928,10,6,Technology,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+4,24,978-1-967139-34-7,2025-03-04,2025-03-18,2025-04-01,Damian Mills,jakewells@saunders.com,+44 7256813716,"Studio 33
+Davis extensions, East Hollie, CM5B 4BL",Beatae voluptates,1996,10,6,Technology,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+5,1,978-0-392-43829-2,2025-01-07,2025-01-21,2025-01-30,Julian Collier,fadams@yahoo.com,+44 7979552484,"52 Kyle harbor, West Eileen, IP29 7YP",Voluptatum ipsum facere,2021,5,4,History,3,Mr Shane Hart,Namibia,Nisi modi nisi non architecto unde. Aperiam libero placeat. Consectetur labore quo vitae neque dicta explicabo.
+6,15,978-1-03-302658-8,2025-01-03,2025-01-17,,Scott White,robinbaker@lewis.com,+44 7816816653,"Flat 11
+Joshua divide, South Lynnstad, N32 1QW",Necessitatibus,1943,10,3,Science,8,Dylan Robinson,French Southern Territories,Iusto nam adipisci placeat itaque inventore dolorum.
+7,25,978-0-11-601300-2,2024-12-30,2025-01-13,,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+8,12,978-1-72950-443-7,2025-02-13,2025-02-27,2025-03-03,Miss Kathleen Dickinson,kevinholmes@outlook.com,+44 7782311949,"Flat 43f
+Rose course, Allenfurt, DL63 5YF",Facere magni,2014,7,1,Fiction,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+9,13,978-0-339-40244-7,2025-03-29,2025-04-12,2025-04-10,Leanne Baxter,terencewebb@outlook.com,+44 7761292560,"Studio 1
+Jake motorway, Leighbury, SM3 3ED",Deleniti fugit,1959,4,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+10,17,978-1-238-23771-0,2025-03-22,2025-04-05,2025-04-01,Miss Mary Fuller,donnellyvictor@hotmail.co.uk,+44 7837740780,"8 Clark shores, East Jessica, NW53 9TY",Adipisci veniam,1928,10,6,Technology,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+11,14,978-0-02-781214-5,2025-02-01,2025-02-15,2025-02-28,Mr Craig Morton,lorraine70@newton.com,+44 7141563739,"Flat 05
+Damien keys, Gregorytown, B6D 6BS",Autem illum,1939,6,2,Non-Fiction,2,Ms Kayleigh Davies,Martinique,"Quod velit doloremque ab aliquid. Odio atque est impedit ab.
+Porro vel impedit. Repellat unde excepturi officia. Illum nesciunt amet assumenda quam."
+12,25,978-0-442-13274-3,2025-02-03,2025-02-17,2025-02-28,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Occaecati occaecati et,1901,7,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+13,29,978-1-72950-443-7,2025-03-05,2025-03-19,2025-03-27,Dr Julie Murray,daniellebird@newman.net,+44 7263238279,"3 Harris bypass, West Joanfort, W2 8AA",Facere magni,2014,7,1,Fiction,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+14,2,978-1-72950-443-7,2025-03-21,2025-04-04,2025-04-16,Dorothy Dixon,stewarthayes@cooke.co.uk,+44 7566058564,"Flat 4
+Doyle stravenue, South Simon, S26 1TW",Facere magni,2014,7,6,Technology,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+15,20,978-1-5268-5776-7,2025-02-02,2025-02-16,,Bradley Williams,wardkirsty@hotmail.co.uk,+44 7837192644,"Studio 72
+Lewis fork, New Tony, M8 6UB",Velit nihil,1974,10,1,Fiction,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+16,27,978-0-914811-43-5,2025-03-29,2025-04-12,2025-04-16,Jonathan Barnes,cmurray@outlook.com,+44 7750142818,"Studio 9
+Dale hollow, Stephenmouth, G97 7RW",Tempora in soluta,1914,4,6,Technology,9,Deborah Adams,Senegal,Error reiciendis aspernatur.
+17,25,978-0-914811-43-5,2025-01-26,2025-02-09,,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Tempora in soluta,1914,4,4,History,3,Mr Shane Hart,Namibia,Nisi modi nisi non architecto unde. Aperiam libero placeat. Consectetur labore quo vitae neque dicta explicabo.
+18,24,978-1-72950-443-7,2025-02-17,2025-03-03,2025-03-02,Damian Mills,jakewells@saunders.com,+44 7256813716,"Studio 33
+Davis extensions, East Hollie, CM5B 4BL",Facere magni,2014,7,1,Fiction,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+19,25,978-1-72950-443-7,2025-01-07,2025-01-21,2025-01-27,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Facere magni,2014,7,1,Fiction,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+20,17,978-0-02-781214-5,2025-03-02,2025-03-16,2025-03-12,Miss Mary Fuller,donnellyvictor@hotmail.co.uk,+44 7837740780,"8 Clark shores, East Jessica, NW53 9TY",Autem illum,1939,6,2,Non-Fiction,2,Ms Kayleigh Davies,Martinique,"Quod velit doloremque ab aliquid. Odio atque est impedit ab.
+Porro vel impedit. Repellat unde excepturi officia. Illum nesciunt amet assumenda quam."
+21,9,978-0-8181-4306-9,2025-03-07,2025-03-21,2025-03-29,Zoe Dean,rachael88@webster.com,+44 7101766411,"393 Aaron street, Lindseyhaven, UB21 9FA",Officia commodi nam,1919,6,3,Science,9,Deborah Adams,Senegal,Error reiciendis aspernatur.
+22,25,978-0-8181-4306-9,2025-02-04,2025-02-18,2025-02-26,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Officia commodi nam,1919,6,3,Science,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+23,25,978-0-442-13274-3,2025-03-01,2025-03-15,2025-03-19,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Occaecati occaecati et,1901,7,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+24,26,978-1-66267-427-3,2025-01-27,2025-02-10,2025-02-24,Tom Sykes,justin71@lowe.com,+44 7600731216,"Flat 7
+Jones mountains, Lynntown, NR3X 2JA",Nostrum autem fuga,1932,1,4,History,6,Jeffrey Mason-Fraser,Thailand,"Facere alias odit nihil.
+Veritatis illo recusandae amet repudiandae. Repudiandae quae pariatur maxime non modi. Omnis aperiam ducimus."
+25,15,978-0-02-781214-5,2025-01-14,2025-01-28,2025-01-24,Scott White,robinbaker@lewis.com,+44 7816816653,"Flat 11
+Joshua divide, South Lynnstad, N32 1QW",Autem illum,1939,6,2,Non-Fiction,8,Dylan Robinson,French Southern Territories,Iusto nam adipisci placeat itaque inventore dolorum.
+26,29,978-1-4903-6824-5,2025-02-24,2025-03-10,2025-03-14,Dr Julie Murray,daniellebird@newman.net,+44 7263238279,"3 Harris bypass, West Joanfort, W2 8AA",Delectus itaque,1946,5,6,Technology,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+27,25,978-1-238-23771-0,2025-01-03,2025-01-17,2025-01-23,Sandra Storey,charlotteedwards@burton.info,+44 7109096529,"Flat 78
+Lewis tunnel, New Linda, NE68 8FH",Adipisci veniam,1928,10,6,Technology,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+28,7,978-0-392-43829-2,2025-03-21,2025-04-04,2025-04-07,Charles Baldwin-Poole,frankmiller@roberts.net,+44 7583918565,"35 Morris ways, South Lawrenceside, E5K 8EU",Voluptatum ipsum facere,2021,5,2,Non-Fiction,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+29,4,978-0-15-097431-4,2025-02-17,2025-03-03,,Mr Bryan Brooks,lloydscott@yahoo.com,+44 7465304148,"Flat 62
+Dixon path, East Joelbury, SW04 0RD",Cum sequi,1979,4,6,Technology,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+30,11,978-0-11-601300-2,2025-01-29,2025-02-12,2025-02-15,Patricia Jones,saunderskieran@outlook.com,+44 7369727476,"1 Jeffrey trafficway, East Dean, WS9X 7YN",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+31,22,978-0-8181-4306-9,2025-03-23,2025-04-06,,Sally Noble-Dickinson,csummers@ali.com,+44 7112244741,"8 Sharon land, South Ryan, E6B 4DT",Officia commodi nam,1919,6,3,Science,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+32,20,978-0-15-097431-4,2025-03-26,2025-04-09,,Bradley Williams,wardkirsty@hotmail.co.uk,+44 7837192644,"Studio 72
+Lewis fork, New Tony, M8 6UB",Cum sequi,1979,4,6,Technology,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+33,28,978-0-02-781214-5,2025-03-17,2025-03-31,2025-04-14,Sara Thompson,saundersvalerie@singh-nash.com,+44 7826447518,"656 Brown path, West Charlotte, TD47 4DT",Autem illum,1939,6,2,Non-Fiction,2,Ms Kayleigh Davies,Martinique,"Quod velit doloremque ab aliquid. Odio atque est impedit ab.
+Porro vel impedit. Repellat unde excepturi officia. Illum nesciunt amet assumenda quam."
+34,22,978-0-442-13274-3,2025-03-18,2025-04-01,2025-04-10,Sally Noble-Dickinson,csummers@ali.com,+44 7112244741,"8 Sharon land, South Ryan, E6B 4DT",Occaecati occaecati et,1901,7,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+35,6,978-0-339-40244-7,2025-01-07,2025-01-21,,Mrs Rosie Clarke,ylee@bevan-moore.com,+44 7272123387,"Studio 7
+Conor estates, Barrettfort, E8 9QP",Deleniti fugit,1959,4,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+36,11,978-0-442-13274-3,2025-02-13,2025-02-27,2025-02-28,Patricia Jones,saunderskieran@outlook.com,+44 7369727476,"1 Jeffrey trafficway, East Dean, WS9X 7YN",Occaecati occaecati et,1901,7,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+37,22,978-0-11-601300-2,2025-01-21,2025-02-04,2025-02-13,Sally Noble-Dickinson,csummers@ali.com,+44 7112244741,"8 Sharon land, South Ryan, E6B 4DT",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+38,15,978-0-02-781214-5,2025-02-25,2025-03-11,,Scott White,robinbaker@lewis.com,+44 7816816653,"Flat 11
+Joshua divide, South Lynnstad, N32 1QW",Autem illum,1939,6,2,Non-Fiction,8,Dylan Robinson,French Southern Territories,Iusto nam adipisci placeat itaque inventore dolorum.
+39,24,978-1-5268-5776-7,2025-01-02,2025-01-16,2025-01-17,Damian Mills,jakewells@saunders.com,+44 7256813716,"Studio 33
+Davis extensions, East Hollie, CM5B 4BL",Velit nihil,1974,10,1,Fiction,10,Cameron Johnson,Saint Helena,Vitae deserunt magni nesciunt temporibus. Dolore quis repellat.
+40,15,978-0-11-601300-2,2025-02-11,2025-02-25,,Scott White,robinbaker@lewis.com,+44 7816816653,"Flat 11
+Joshua divide, South Lynnstad, N32 1QW",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+41,6,978-0-914811-43-5,2025-03-11,2025-03-25,,Mrs Rosie Clarke,ylee@bevan-moore.com,+44 7272123387,"Studio 7
+Conor estates, Barrettfort, E8 9QP",Tempora in soluta,1914,4,6,Technology,9,Deborah Adams,Senegal,Error reiciendis aspernatur.
+42,2,978-0-11-601300-2,2025-03-02,2025-03-16,2025-03-29,Dorothy Dixon,stewarthayes@cooke.co.uk,+44 7566058564,"Flat 4
+Doyle stravenue, South Simon, S26 1TW",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+43,1,978-1-66267-427-3,2025-02-04,2025-02-18,2025-02-28,Julian Collier,fadams@yahoo.com,+44 7979552484,"52 Kyle harbor, West Eileen, IP29 7YP",Nostrum autem fuga,1932,1,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+44,19,978-1-4903-6824-5,2025-01-11,2025-01-25,,Fiona Wilson,pattersontoby@gmail.com,+44 7235105220,"Studio 78
+Woodward mission, West Lynda, W9 8XL",Delectus itaque,1946,5,6,Technology,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+45,11,978-1-238-23771-0,2025-03-22,2025-04-05,2025-04-11,Patricia Jones,saunderskieran@outlook.com,+44 7369727476,"1 Jeffrey trafficway, East Dean, WS9X 7YN",Adipisci veniam,1928,10,6,Technology,4,Dr Liam Ali,Malaysia,Quis vel quae. Fuga unde reiciendis nam consequuntur.
+46,1,978-0-02-781214-5,2025-01-26,2025-02-09,,Julian Collier,fadams@yahoo.com,+44 7979552484,"52 Kyle harbor, West Eileen, IP29 7YP",Autem illum,1939,6,2,Non-Fiction,2,Ms Kayleigh Davies,Martinique,"Quod velit doloremque ab aliquid. Odio atque est impedit ab.
+Porro vel impedit. Repellat unde excepturi officia. Illum nesciunt amet assumenda quam."
+47,3,978-0-442-13274-3,2025-01-04,2025-01-18,2025-01-26,Ian Thomas-Cooke,qfox@outlook.com,+44 7563220819,"33 Gibson road, Port Louise, AL5R 4ZY",Occaecati occaecati et,1901,7,4,History,5,Christopher King,Dominican Republic,Repellat dolorem porro. Velit iure nobis esse assumenda nam aliquam doloribus. Velit nobis eum odit minima qui itaque nostrum.
+48,19,978-1-72950-443-7,2025-03-09,2025-03-23,2025-03-27,Fiona Wilson,pattersontoby@gmail.com,+44 7235105220,"Studio 78
+Woodward mission, West Lynda, W9 8XL",Facere magni,2014,7,1,Fiction,1,Toby Carpenter,Mayotte,Eum exercitationem dicta ad saepe facilis. Facilis tempore omnis soluta a natus hic. Necessitatibus architecto a soluta tenetur aut repellat.
+49,23,978-1-66267-427-3,2025-03-24,2025-04-07,,Kimberley Brown,amberbryant@jenkins.net,+44 7592971308,"1 Pope summit, New Benjaminfurt, B43 1RY",Nostrum autem fuga,1932,1,4,History,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.
+50,24,978-0-11-601300-2,2025-03-12,2025-03-26,2025-03-22,Damian Mills,jakewells@saunders.com,+44 7256813716,"Studio 33
+Davis extensions, East Hollie, CM5B 4BL",Nostrum explicabo,1921,2,5,Biography,7,Dr Tracy Stevenson,Svalbard & Jan Mayen Islands,Consequatur aperiam praesentium debitis ducimus.

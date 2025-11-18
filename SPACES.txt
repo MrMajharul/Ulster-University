@@ -1,0 +1,7 @@
+# Space ID, Location, Type e.g., Standard/Disabled/EV.
+S001, Level 1 - Bay 01, Standard
+S002, Level 1 - Bay 02, Standard
+S003, Level 1 - Bay 03, Disabled
+S004, Level 1 - Bay 04, EV
+S005, Level 2 - Bay 01, Standard
+S006, Level 2 - Bay 02, Standard

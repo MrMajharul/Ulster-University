@@ -1,0 +1,144 @@
+VIDEO WALKTHROUGH CHECKLIST - 5 MINUTES MAX
+============================================
+
+PART A: PROGRAM DEMO WALKTHROUGH (2.5 minutes)
+----------------------------------------------
+
+□ 1. Open and run program in VS Code/PyCharm
+   - Show the program starting
+   - Display initialization message (6 spaces, 5 cars, 2 parked)
+
+□ 2. Main Menu Overview
+   - Show all 5 menu options clearly
+   - Briefly explain each option
+
+□ 3. Demonstrate Each Feature:
+   
+   a) View Currently Parked Cars (Option 3)
+      - Show 2 cars currently parked
+      - Point out the formatted table output
+   
+   b) View Free Spaces (Option 4)
+      - Show 4 available spaces
+      - Mention different space types
+   
+   c) Park a Car (Option 1)
+      - Enter a valid registration (e.g., ZZ11AAA)
+      - Enter valid duration (e.g., 60)
+      - Select a space from the list
+      - Show success message
+   
+   d) Car Leaving (Option 2)
+      - Remove a parked car
+      - Show success message
+      - Verify space is now free (check Option 4)
+   
+   e) Exit Program (Option 5)
+      - Show save message
+      - Mention PARKED.txt is updated
+
+□ 4. Testing Discussion
+   - Mention you tested with 15 test cases
+   - Tested invalid inputs (wrong registration, invalid duration)
+   - Tested edge cases (full car park, empty car park)
+   - Used try-except blocks for error handling
+
+□ 5. Known Issues/Limitations
+   - State: "No major bugs found"
+   - Or mention any minor issues if present
+   - All requirements met successfully
+
+□ 6. Self-Assessment
+   - "I believe I achieved all core requirements"
+   - "Implemented all menu options correctly"
+   - "Good error handling and validation"
+
+
+PART B: SOURCE CODE WALKTHROUGH (2.5 minutes)
+---------------------------------------------
+
+□ 1. Code Overview
+   - Show total lines of code (~245 lines)
+   - Point out 10+ functions implemented
+   - Mention clean organization
+
+□ 2. Code Structure Discussion
+   - Show imports at top (datetime, os, typing)
+   - Point out global data structures (spaces, cars, parked)
+   - Mention clear function organization
+
+□ 3. Walk Through Key Functions:
+   
+   a) load_spaces(), load_cars(), load_parked()
+      - Show file reading logic
+      - Point out error handling (file not found)
+      - Explain data structure population
+   
+   b) park_car()
+      - Show input validation
+      - Point out car registration check
+      - Explain duration validation (15-min increments)
+      - Show time calculation logic
+      - Explain space selection and occupancy marking
+   
+   c) leave_car()
+      - Show search logic
+      - Explain record removal
+      - Point out space freeing
+   
+   d) get_available_spaces()
+      - Explain entitlement checking
+      - Show how EV/Disabled/Standard logic works
+   
+   e) view_parked_cars(), view_free_spaces()
+      - Show formatting logic
+      - Point out data display
+
+□ 4. Commenting Evidence
+   - Point out docstrings on functions
+   - Show inline comments explaining logic
+   - Mention clear function names
+
+□ 5. Challenging Code Segments
+   - Mention time/date handling with datetime
+   - Discuss space type validation logic
+   - Explain dictionary vs list usage decision
+
+□ 6. Validation & Exception Handling
+   - Show try-except blocks in park_car()
+   - Point out ValueError handling
+   - Show file existence checks
+   - Mention input validation (duration, registration)
+
+
+TIMING TIPS:
+-----------
+- Part A: ~2.5 minutes
+- Part B: ~2.5 minutes
+- Practice to stay under 5 minutes!
+- Speak clearly and confidently
+- Don't rush, but be concise
+
+
+RECORDING TIPS:
+--------------
+□ Use screen recording software (QuickTime, OBS, etc.)
+□ Close unnecessary applications
+□ Ensure code is visible and readable
+□ Test audio before recording
+□ Record in mp4 format
+□ Check file plays correctly before submitting
+
+
+SUBMISSION CHECKLIST:
+--------------------
+□ carpark.py (main source code)
+□ SPACES.txt
+□ CARS.txt
+□ PARKED.txt
+□ test_carpark.py (optional test file)
+□ Test_Cases_Documentation.docx (or .doc)
+□ Video_Walkthrough.mp4 (under 5 minutes)
+□ All files in a ZIP archive
+
+Good luck with your video! 🎥

@@ -1,17 +1,16 @@
 CAR PARK MANAGEMENT SYSTEM - TEST DOCUMENTATION
-==================================================
+
 
 Student Name: [Your Name]
 Student ID: [Your ID]
 Date: November 21, 2025
 Module: COM161 Coding Project (Python)
 
-==================================================
+
 TEST CASES AND RESULTS
-==================================================
+
 
 Test Case 1: System Initialization
------------------------------------
 Objective: Verify that the system correctly loads data from all three text files
 Preconditions: SPACES.txt, CARS.txt, and PARKED.txt exist with valid data
 Test Steps:
@@ -34,7 +33,6 @@ Notes: All data structures populated correctly
 
 
 Test Case 2: View Free Spaces
------------------------------------
 Objective: Display all available parking spaces
 Preconditions: System initialized with 2 cars parked
 Test Steps:
@@ -53,7 +51,6 @@ Notes: Output is clear and readable
 
 
 Test Case 3: View Currently Parked Cars
------------------------------------
 Objective: Display all cars currently in the car park
 Preconditions: System initialized with 2 cars parked
 Test Steps:
@@ -72,7 +69,6 @@ Notes: Owner names retrieved from CARS.txt successfully
 
 
 Test Case 4: Park a Registered Car - Standard Space
------------------------------------
 Objective: Successfully park a registered car in an available standard space
 Preconditions: Car ZZ11AAA is registered, standard spaces available
 Test Steps:
@@ -96,7 +92,6 @@ Notes: Duration validation works (must be multiple of 15)
 
 
 Test Case 5: Park Car - Invalid Registration
------------------------------------
 Objective: Verify system rejects unregistered cars
 Preconditions: System initialized
 Test Steps:
@@ -116,7 +111,6 @@ Notes: Validation working correctly
 
 
 Test Case 6: Park Car - Invalid Duration
------------------------------------
 Objective: Verify duration validation (must be multiple of 15)
 Preconditions: System initialized
 Test Steps:
@@ -137,7 +131,6 @@ Notes: Input validation functioning correctly
 
 
 Test Case 7: Park EV Car in Standard Space
------------------------------------
 Objective: Verify EV cars can only use EV spaces
 Preconditions: XY34ZRT (EV car) registered, EV space available
 Test Steps:
@@ -157,7 +150,6 @@ Notes: Entitlement system functioning correctly
 
 
 Test Case 8: Park Disabled Car
------------------------------------
 Objective: Verify disabled cars can use disabled OR standard spaces
 Preconditions: EV99CAR (Disabled) registered
 Test Steps:
@@ -177,7 +169,6 @@ Notes: Follows accessibility requirements
 
 
 Test Case 9: Car Leaving - Valid Registration
------------------------------------
 Objective: Successfully remove a parked car
 Preconditions: AB12CDE currently parked in S001
 Test Steps:
@@ -198,7 +189,6 @@ Notes: Leave functionality working correctly
 
 
 Test Case 10: Car Leaving - Invalid Registration
------------------------------------
 Objective: Handle attempt to remove non-parked car
 Preconditions: System initialized
 Test Steps:
@@ -218,7 +208,6 @@ Notes: Error handling working properly
 
 
 Test Case 11: Full Car Park Scenario
------------------------------------
 Objective: Test behavior when all spaces occupied
 Preconditions: All 6 spaces have cars parked
 Test Steps:
@@ -238,7 +227,6 @@ Notes: Edge case handled correctly
 
 
 Test Case 12: Save Data on Exit
------------------------------------
 Objective: Verify PARKED.txt updated when program exits
 Preconditions: Changes made to parking records
 Test Steps:
@@ -260,7 +248,6 @@ Notes: File I/O working correctly
 
 
 Test Case 13: Duration Calculation
------------------------------------
 Objective: Verify correct time calculation for expected exit
 Preconditions: System initialized
 Test Steps:
@@ -279,7 +266,6 @@ Notes: datetime module used correctly
 
 
 Test Case 14: Exception Handling - Invalid Menu Choice
------------------------------------
 Objective: Test menu input validation
 Preconditions: System running
 Test Steps:
@@ -298,7 +284,6 @@ Notes: Basic exception handling present
 
 
 Test Case 15: Exception Handling - Non-numeric Input
------------------------------------
 Objective: Test handling of invalid data types
 Preconditions: System running
 Test Steps:
@@ -317,9 +302,9 @@ Actual Result: PASS
 Notes: Exception handling implemented
 
 
-==================================================
-TESTING SUMMARY
-==================================================
+
+*TESTING SUMMARY*
+
 
 Total Test Cases: 15
 Passed: 15
@@ -355,6 +340,3 @@ Tools Used:
 Conclusion:
 The Car Park Management System meets all functional requirements specified in the assignment brief. All core features are working correctly, and the system handles errors gracefully. The implementation demonstrates good understanding of Python fundamentals including file I/O, data structures, functions, and exception handling.
 
-==================================================
-End of Test Documentation
-==================================================

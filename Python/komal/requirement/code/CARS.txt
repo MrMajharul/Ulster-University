@@ -1,6 +1,6 @@
 # Registration, Owner Name, Contact, Entitlement
-AB12CDE, Alice Johnson, alice.johnson@email.com, Standard
-XY34ZRT, Bob Smith, bob.smith@email.com, EV
-EV99CAR, Charlie Green, charlie.green@email.com, Disabled
-ZZ11AAA, Dana White, dana.white@email.com, Standard
-DD22BBB, Ethan Brown, ethan.brown@email.com, Standard
+AB12CDE, Aarav Sharma, aarav.sharma@email.com, Standard
+XY34ZRT, Priya Singh, priya.singh@email.com, EV
+EV99CAR, Rahul Verma, rahul.verma@email.com, Disabled
+ZZ11AAA, Neha Patel, neha.patel@email.com, Standard
+DD22BBB, Vikram Das, vikram.das@email.com, Standard
